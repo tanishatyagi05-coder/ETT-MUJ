@@ -54,6 +54,7 @@ A document-centric chat application where users upload PDF documents and chat wi
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+
 ## Project Structure
 
 ```
@@ -118,6 +119,10 @@ A document-centric chat application where users upload PDF documents and chat wi
 - `npm run build` - Build for production
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
+
+## Contribution by Tanishatyagi05
+-Improved documentation
+-Learning Git workflow
 
 ## License
 
